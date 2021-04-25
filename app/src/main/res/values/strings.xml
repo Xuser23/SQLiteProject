@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">SQLiteProject</string>
+    <string name="header_login">YOUNIVERSE</string>
+    <string name="login">LOG IN</string>
+    <string name="btn_login">Log In</string>
+    <string name="btn_sign_up">Sign Up</string>
+    <string name="h_email">Email Address</string>
+    <string name="h_pass">Password</string>
+    <string name="forgot_pass">Forgot Password?</string>
+
+    <string name="header_signUp">SIGN UP</string>
+    <string name="in_username">Username</string>
+    <string name="in_email">Email Address</string>
+    <string name="in_pass">Password</string>
+    <string name="terms">I Agree Terms of Use</string>
 </resources>
