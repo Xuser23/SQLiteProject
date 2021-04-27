@@ -13,4 +13,9 @@
     <string name="in_email">Email Address</string>
     <string name="in_pass">Password</string>
     <string name="terms">I Agree Terms of Use</string>
+
+    <string name="h_add_friend">Add Your Friends</string>
+    <string name="fr_name">Full Name</string>
+    <string name="no_phone">Number Phone</string>
+    <string name="btn_save">Save</string>
 </resources>
